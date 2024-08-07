@@ -1,7 +1,7 @@
 {
     "name": "GlowCatSkulls",
     "version_number": "1.0.0",
-    "website_url": "https://www.youtube.com/@kultdev",
+    "website_url": "https://github.com/kultdeveloper/GlowCatSkulls",
     "description": "cute lil guys",
     "dependencies": [
         "BepInEx-BepInExPack-5.4.2100"
